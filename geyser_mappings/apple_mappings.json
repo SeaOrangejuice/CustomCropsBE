@@ -1,0 +1,182 @@
+{
+    "format_version": 1,
+    "items": {
+        "minecraft:apple": [
+            {
+                "#name": "your item's id on bedrock edition(string), dont change",
+                "#icon": "your item's texture on resource pack(string), dont change",
+                "#custom_model_data": "your item's custom_model_data in java edition(int), change it!!!"
+            },
+            {
+                "name": "pepper",
+                "icon": "pepper",
+                "custom_model_data": 10000
+            },
+            {
+                "name": "pepper_silver_star",
+                "icon": "pepper_silver_star",
+                "custom_model_data": 10001
+            },
+            {
+                "name": "pepper_golden_star",
+                "icon": "pepper_golden_star",
+                "custom_model_data": 10002
+            },
+            {
+                "name": "pitaya",
+                "icon": "pitaya",
+                "custom_model_data": 10003
+            },
+            {
+                "name": "pitaya_silver_star",
+                "icon": "pitaya_silver_star",
+                "custom_model_data": 10004
+            },
+            {
+                "name": "pitaya_golden_star",
+                "icon": "pitaya_golden_star",
+                "custom_model_data": 10005
+            },
+            {
+                "name": "pineapple",
+                "icon": "pineapple",
+                "custom_model_data": 10006
+            },
+            {
+                "name": "pineapple_silver_star",
+                "icon": "pineapple_silver_star",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "pineapple_golden_star",
+                "icon": "pineapple_golden_star",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "cabbage",
+                "icon": "cabbage",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "cabbage_silver_star",
+                "icon": "cabbage_silver_star",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "cabbage_golden_star",
+                "icon": "cabbage_golden_star",
+                "custom_model_data": 10011
+            },
+            {
+                "name": "chinese_cabbage",
+                "icon": "chinese_cabbage",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "chinese_cabbage_silver_star",
+                "icon": "chinese_cabbage_silver_star",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "chinese_cabbage_golden_star",
+                "icon": "chinese_cabbage_golden_star",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "corn",
+                "icon": "corn",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "corn_silver_star",
+                "icon": "corn_silver_star",
+                "custom_model_data": 10016
+            },
+            {
+                "name": "corn_golden_star",
+                "icon": "corn_golden_star",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "eggplant",
+                "icon": "eggplant",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "eggplant_silver_star",
+                "icon": "eggplant_silver_star",
+                "custom_model_data": 10019
+            },
+            {
+                "name": "eggplant_golden_star",
+                "icon": "eggplant_golden_star",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "tomato",
+                "icon": "tomato",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "tomato_silver_star",
+                "icon": "tomato_silver_star",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "tomato_golden_star",
+                "icon": "tomato_golden_star",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "golden_tomato",
+                "icon": "golden_tomato",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "hop",
+                "icon": "hop",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "hop_silver_star",
+                "icon": "hop_silver_star",
+                "custom_model_data": 10026
+            },
+            {
+                "name": "hop_golden_star",
+                "icon": "hop_golden_star",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "grape",
+                "icon": "grape",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "grape_silver_star",
+                "icon": "grape_silver_star",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "grape_golden_star",
+                "icon": "grape_golden_star",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "garlic",
+                "icon": "garlic",
+                "custom_model_data": 10031
+            },
+            {
+                "name": "garlic_silver_star",
+                "icon": "garlic_silver_star",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "garlic_golden_star",
+                "icon": "garlic_golden_star",
+                "custom_model_data": 10033
+            }
+        ]
+    }
+}

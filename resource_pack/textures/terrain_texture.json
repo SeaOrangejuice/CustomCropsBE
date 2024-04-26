@@ -1,0 +1,36 @@
+{
+    "texture_name": "atlas.terrain",
+    "resource_pack_name": "customcropsbe",
+    "padding": 8,
+    "num_mip_levels": 4,
+    "texture_data": {
+      "gp0": {
+        "textures": "textures/blocks/gp0"
+      },
+      "gp1": {
+        "textures": "textures/blocks/gp1"
+      },
+      "gp2": {
+        "textures": "textures/blocks/gp2"
+      },
+      "gp3": {
+        "textures": "textures/blocks/gp3"
+      },
+      "gp4": {
+        "textures": "textures/blocks/gp4"
+      },
+      "gp5": {
+        "textures": "textures/blocks/gp5"
+      },
+      "gp6": {
+        "textures": "textures/blocks/gp6"
+      },
+      "tang1": {
+        "textures": "textures/blocks/tang1"
+      },
+      "tang3": {
+        "textures": "textures/blocks/tang3"
+      }
+    }
+  }
+  

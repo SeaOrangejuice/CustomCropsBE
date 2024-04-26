@@ -1,0 +1,167 @@
+{
+    "format_version": 1,
+    "items": {
+        "minecraft:paper": [
+            {
+                "#name": "your item's id on bedrock edition(string), dont change",
+                "#icon": "your item's texture on resource pack(string), dont change",
+                "#custom_model_data": "your item's custom_model_data in java edition(int), change it!!!"
+            },
+            {
+                "name": "pepper_seeds",
+                "icon": "pepper_seeds",
+                "custom_model_data": 10012
+            },
+            {
+                "name": "soil_surveyor",
+                "icon": "soil_surveyor",
+                "custom_model_data": 10020
+            },
+            {
+                "name": "pitaya_seeds",
+                "icon": "pitaya_seeds",
+                "custom_model_data": 10027
+            },
+            {
+                "name": "pineapple_seeds",
+                "icon": "pineapple_seeds",
+                "custom_model_data": 10032
+            },
+            {
+                "name": "speed_grow_1",
+                "icon": "speed_grow_1",
+                "custom_model_data": 10034
+            },
+            {
+                "name": "speed_grow_2",
+                "icon": "speed_grow_2",
+                "custom_model_data": 10035
+            },
+            {
+                "name": "speed_grow_3",
+                "icon": "speed_grow_3",
+                "custom_model_data": 10036
+            },
+            {
+                "name": "soil_retain_1",
+                "icon": "soil_retain_1",
+                "custom_model_data": 10037
+            },
+            {
+                "name": "soil_retain_2",
+                "icon": "soil_retain_2",
+                "custom_model_data": 10038
+            },
+            {
+                "name": "soil_retain_3",
+                "icon": "soil_retain_3",
+                "custom_model_data": 10039
+            },
+            {
+                "name": "quality_1",
+                "icon": "quality_1",
+                "custom_model_data": 10040
+            },
+            {
+                "name": "quality_2",
+                "icon": "quality_2",
+                "custom_model_data": 10041
+            },
+            {
+                "name": "quality_3",
+                "icon": "quality_3",
+                "custom_model_data": 10042
+            },
+            {
+                "name": "yield_increase_1",
+                "icon": "yield_increase_1",
+                "custom_model_data": 10043
+            },
+            {
+                "name": "yield_increase_2",
+                "icon": "yield_increase_2",
+                "custom_model_data": 10044
+            },
+            {
+                "name": "yield_increase_3",
+                "icon": "yield_increase_3",
+                "custom_model_data": 10045
+            },
+            {
+                "name": "variation_1",
+                "icon": "variation_1",
+                "custom_model_data": 10046
+            },
+            {
+                "name": "variation_2",
+                "icon": "variation_2",
+                "custom_model_data": 10047
+            },
+            {
+                "name": "variation_3",
+                "icon": "variation_3",
+                "custom_model_data": 10048
+            },
+            {
+                "name": "cabbage_seeds",
+                "icon": "cabbage_seeds",
+                "custom_model_data": 10053
+            },
+            {
+                "name": "redpacket_seeds",
+                "icon": "redpacket_seeds",
+                "custom_model_data": 10061
+            },
+            {
+                "name": "chinese_cabbage_seeds",
+                "icon": "chinese_cabbage_seeds",
+                "custom_model_data": 10067
+            },
+            {
+                "name": "corn_seeds",
+                "icon": "corn_seeds",
+                "custom_model_data": 10072
+            },
+            {
+                "name": "eggplant_seeds",
+                "icon": "eggplant_seeds",
+                "custom_model_data": 10077
+            },
+            {
+                "name": "tomato_seeds",
+                "icon": "tomato_seeds",
+                "custom_model_data": 10083
+            },
+            {
+                "name": "hop_seeds",
+                "icon": "hop_seeds",
+                "custom_model_data": 10089
+            },
+            {
+                "name": "grape_seeds",
+                "icon": "grape_seeds",
+                "custom_model_data": 10096
+            },
+            {
+                "name": "sprinkler_1_item",
+                "icon": "sprinkler_1_item",
+                "custom_model_data": 10105
+            },
+            {
+                "name": "sprinkler_2_item",
+                "icon": "sprinkler_2_item",
+                "custom_model_data": 10107
+            },
+            {
+                "name": "sprinkler_3_item",
+                "icon": "sprinkler_3_item",
+                "custom_model_data": 10109
+            },
+            {
+                "name": "garlic_seeds",
+                "icon": "garlic_seeds",
+                "custom_model_data": 10114
+            }
+        ]
+    }
+}

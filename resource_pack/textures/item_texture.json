@@ -1,0 +1,112 @@
+{
+    "texture_name": "atlas.items",
+    "resource_pack_name": "customcropsbe",
+    "texture_data": {
+      "soil_surveyor": {
+        "textures": "textures/items/basics/soil_surveyor"
+      },
+      "quality_1": {
+        "textures": "textures/items/fertilizers/quality_1"
+      },
+      "quality_2": {
+        "textures": "textures/items/fertilizers/quality_2"
+      },
+      "quality_3": {
+        "textures": "textures/items/fertilizers/quality_3"
+      },
+      "soil_retain_1": {
+        "textures": "textures/items/fertilizers/soil_retain_1"
+      },
+      "soil_retain_2": {
+        "textures": "textures/items/fertilizers/soil_retain_2"
+      },
+      "soil_retain_3": {
+        "textures": "textures/items/fertilizers/soil_retain_3"
+      },
+      "speed_grow_1": {
+        "textures": "textures/items/fertilizers/speed_grow_1"
+      },
+      "speed_grow_2": {
+        "textures": "textures/items/fertilizers/speed_grow_2"
+      },
+      "speed_grow_3": {
+        "textures": "textures/items/fertilizers/speed_grow_3"
+      },
+      "variation_1": {
+        "textures": "textures/items/fertilizers/variation_1"
+      },
+      "variation_2": {
+        "textures": "textures/items/fertilizers/variation_2"
+      },
+      "variation_3": {
+        "textures": "textures/items/fertilizers/variation_3"
+      },
+      "yield_increase_1": {
+        "textures": "textures/items/fertilizers/yield_increase_1"
+      },
+      "yield_increase_2": {
+        "textures": "textures/items/fertilizers/yield_increase_2"
+      },
+      "yield_increase_3": {
+        "textures": "textures/items/fertilizers/yield_increase_3"
+      },
+      "cabbage_seeds": {
+        "textures": "textures/items/crops/cabbage_seeds"
+      },
+      "chinese_cabbage_seeds": {
+        "textures": "textures/items/crops/chinese_cabbage_seeds"
+      },
+      "corn_seeds": {
+        "textures": "textures/items/crops/corn_seeds"
+      },
+      "eggplant_seeds": {
+        "textures": "textures/items/crops/eggplant_seeds"
+      },
+      "garlic_seeds": {
+        "textures": "textures/items/crops/garlic_seeds"
+      },
+      "grape_seeds": {
+        "textures": "textures/items/crops/grape_seeds"
+      },
+      "hop_seeds": {
+        "textures": "textures/items/crops/hop_seeds"
+      },
+      "pepper_seeds": {
+        "textures": "textures/items/crops/pepper_seeds"
+      },
+      "pineapple_seeds": {
+        "textures": "textures/items/crops/pineapple_seeds"
+      },
+      "pitaya_seeds": {
+        "textures": "textures/items/crops/pitaya_seeds"
+      },
+      "redpacket_seeds": {
+        "textures": "textures/items/crops/redpacket_seeds"
+      },
+      "tomato_seeds": {
+        "textures": "textures/items/crops/tomato_seeds"
+      },
+      "sprinkler_1_item": {
+        "textures": "textures/items/crops/sprinkler_1_item"
+      },
+      "sprinkler_2_item": {
+        "textures": "textures/items/crops/sprinkler_2_item"
+      },
+      "sprinkler_3_item": {
+        "textures": "textures/items/crops/sprinkler_3_item"
+      },
+      "watering_can_1": {
+        "textures": "textures/items/wateringcans/watering_can_1"
+      },
+      "watering_can_2": {
+        "textures": "textures/items/wateringcans/watering_can_2"
+      },
+      "watering_can_3": {
+        "textures": "textures/items/wateringcans/watering_can_3"
+      },
+      "watering_can_4": {
+        "textures": "textures/items/wateringcans/watering_can_4"
+      }
+    }
+  }
+  
