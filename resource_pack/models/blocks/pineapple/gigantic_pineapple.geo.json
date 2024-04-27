@@ -1,0 +1,69 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.customcrops.gigantic_pineapple",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 3.5,
+				"visible_bounds_offset": [0, 1.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 1.025, -8],
+					"cubes": [
+						{
+							"origin": [-8, 1.025, -8],
+							"size": [16, 16, 16],
+							"uv": {
+								"north": {"uv": [0, 16], "uv_size": [16, 16], "material_instance": "stage"},
+								"east": {"uv": [0, 16], "uv_size": [16, 16], "material_instance": "stage"},
+								"south": {"uv": [0, 16], "uv_size": [16, 16], "material_instance": "stage"},
+								"west": {"uv": [0, 16], "uv_size": [16, 16], "material_instance": "stage"},
+								"up": {"uv": [16, 32], "uv_size": [-16, -16], "material_instance": "stage"},
+								"down": {"uv": [16, 32], "uv_size": [-16, -16], "material_instance": "stage"}
+							}
+						},
+						{
+							"origin": [-8.75, 0.275, -8.75],
+							"size": [17.5, 17.5, 17.5],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "stage"},
+								"east": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "stage"},
+								"south": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "stage"},
+								"west": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "stage"},
+								"up": {"uv": [16, 16], "uv_size": [-16, -16], "material_instance": "stage"},
+								"down": {"uv": [16, 16], "uv_size": [-16, -16], "material_instance": "stage"}
+							}
+						},
+						{
+							"origin": [0, 18.025, -4],
+							"size": [0, 8, 9],
+							"uv": {
+								"north": {"uv": [18, 16], "uv_size": [0, 12], "material_instance": "leaves"},
+								"south": {"uv": [18, 16], "uv_size": [0, 12], "material_instance": "leaves"},
+								"west": {"uv": [18, 16], "uv_size": [12, 12], "material_instance": "leaves"},
+								"up": {"uv": [18, 30], "uv_size": [0, -14], "material_instance": "leaves"},
+								"down": {"uv": [18, 30], "uv_size": [0, -14], "material_instance": "leaves"}
+							}
+						},
+						{
+							"origin": [-4.5, 18.025, 0.5],
+							"size": [9, 8, 0],
+							"uv": {
+								"north": {"uv": [18, 16], "uv_size": [12, 12], "material_instance": "leaves"},
+								"east": {"uv": [18, 16], "uv_size": [0, 12], "material_instance": "leaves"},
+								"west": {"uv": [18, 16], "uv_size": [0, 12], "material_instance": "leaves"},
+								"up": {"uv": [18, 30], "uv_size": [0, -14], "material_instance": "leaves"},
+								"down": {"uv": [18, 30], "uv_size": [0, -14], "material_instance": "leaves"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
