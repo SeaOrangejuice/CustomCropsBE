@@ -35,10 +35,10 @@
             "textures": "textures/blocks/crops/pineapple/gigantic"
         },
         "tomato_side": {
-            "texture": "textures/blocks/crops/tomato/tomato_side"
+            "textures": "textures/blocks/crops/tomato/tomato_side"
         },
         "tomato_leaves": {
-            "texture": "textures/blocks/crops/tomato/tomato_leaves"
+            "textures": "textures/blocks/crops/tomato/tomato_leaves"
         }
     }
 }
