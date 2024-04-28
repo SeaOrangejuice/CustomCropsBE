@@ -6,7 +6,7 @@ Due to my busy academic schedule, this project has not been completed yet. Maybe
 
 ### How is the progress
 - [x] item mappings|物品映射
-- [X] item textures|物品贴图
+- [ ] item textures|物品贴图 50%
 - [ ] 3d item geo and attachables|物品模型与连接文件 0%
 - [ ] block mappings|方块映射 10%
 - [ ] block textures|方块贴图 30%
