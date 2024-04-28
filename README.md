@@ -17,7 +17,7 @@ Due to my busy academic schedule, this project has not been completed yet. Maybe
 ### Note:
 I made it once and now I will make it again to cover my bad memories.  
 我曾经制作过它，现在我将重制它来掩盖我的黑历史。  
-![]([IMG_2617.png](https://github.com/SeaOrangejuice/CustomCropsBE/blob/main/IMG_2617.png))
+![](https://github.com/SeaOrangejuice/CustomCropsBE/blob/main/IMG_2617.png)
 In order to thank the people in the CustomCrops community for taking care of me, I decided to make the remake public.  
 为了感谢 CustomCrops 社区的人们对我的照顾，我决定将重制版公开。  
 The texts in the resource package are prepared in advance for possible custom texts support in Geyser in the future.  
