@@ -8,7 +8,7 @@ Due to my busy academic schedule, this project has not been completed yet. Maybe
 - [x] item mappings|物品映射
 - [ ] item textures|物品贴图 50%
 - [ ] 3d item geo and attachables|物品模型与连接文件 0%
-- [ ] block mappings|方块映射 10%
+- [ ] block mappings|方块映射 15%
 - [ ] block textures|方块贴图 30%
 - [ ] block geo|方块模型 10%
 - [ ] render controller|渲染控制器 0%
