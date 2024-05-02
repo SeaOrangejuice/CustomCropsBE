@@ -1,0 +1,125 @@
+{
+    "format_version": 1,
+    "blocks": {
+        "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=false]": {
+            "name": "pitaya_stage_6",
+            "geometry": "geometry.customcrops.pitaya.stage_6",
+            "material_instances": {
+                "*": {
+                    "texture": "pitaya_stage",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=false]": {
+            "name": "pineapple_stage_1",
+            "geometry": "geometry.customcrops.pineapple.stage_1",
+            "material_instances": {
+                "*": {
+                    "texture": "pineapple_stage",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=true,west=true]": {
+            "name": "pineapple_stage_3",
+            "geometry": "geometry.customcrops.pineapple.stage_3",
+            "material_instances": {
+                "*": {
+                    "texture": "pineapple_stage",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=false]": {
+            "name": "pineapple_stage_4",
+            "geometry": "geometry.customcrops.pineapple.stage_4",
+            "material_instances": {
+                "*": {
+                    "texture": "pineapple_stage",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=false]": {
+            "name": "cabbage_stage_1",
+            "geometry": "geometry.customcrops.cabbage.stage_1",
+            "material_instances": {
+                "*": {
+                    "texture": "cabbage_stage_1",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=false,south=false,west=true]": {
+            "name": "cabbage_stage_2",
+            "geometry": "geometry.customcrops.cabbage.stage_2",
+            "material_instances": {
+                "*": {
+                    "texture": "cabbage_stage_2",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=false,east=false,north=true,powered=true,south=false,west=true]": {
+            "name": "cabbage_stage_3",
+            "geometry": "geometry.customcrops.cabbage.stage_3",
+            "material_instances": {
+                "*": {
+                    "texture": "cabbage_stage_3",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                },
+                "stage": {
+                    "texture": "cabbage_stage_3",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                },
+                "leaves": {
+                    "texture": "cabbage_stage_2",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        },
+        "minecraft:tripwire[attached=false,disarmed=true,east=false,north=true,powered=false,south=false,west=false]": {
+            "name": "cabbage_stage_4",
+            "geometry": "geometry.customcrops.cabbage.stage_4",
+            "material_instances": {
+                "*": {
+                    "texture": "cabbage_stage_3",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                },
+                "stage": {
+                    "texture": "cabbage_stage_3",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                },
+                "leaves": {
+                    "texture": "cabbage_leaves",
+                    "render_method": "alpha_test",
+					"face_dimming": true,
+					"ambient_occlusion": true
+                }
+            }
+        }
+    }
+}

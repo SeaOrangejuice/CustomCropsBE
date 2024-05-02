@@ -10,6 +10,12 @@
         "crops_pot": {
             "textures": "textures/blocks/basics/pot"
         },
+        "farmland_dry": {
+            "textures": "textures/blocks/basics/farmland_dry"
+        },
+        "farmland_wet": {
+            "textures": "textures/blocks/basics/farmland_wet"
+        },
         "apple_stage": {
             "textures": "textures/blocks/crops/apple/stage"
         },
@@ -39,6 +45,9 @@
         },
         "tomato_leaves": {
             "textures": "textures/blocks/crops/tomato/tomato_leaves"
+        },
+        "pitaya_stage": {
+            "textures": "textures/blocks/crops/pitaya/pitaya"
         }
     }
 }

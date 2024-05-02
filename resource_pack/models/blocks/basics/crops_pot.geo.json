@@ -1,0 +1,122 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.customcrops.crops_pot",
+				"texture_width": 32,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-8, 0, -8],
+							"size": [16, 16, 16],
+							"uv": {
+								"north": {"uv": [0, 1], "uv_size": [16, 15], "material_instance": "pot"},
+								"east": {"uv": [0, 1], "uv_size": [16, 15], "material_instance": "pot"},
+								"south": {"uv": [0, 1], "uv_size": [16, 15], "material_instance": "pot"},
+								"west": {"uv": [0, 1], "uv_size": [16, 15], "material_instance": "pot"},
+								"down": {"uv": [32, 16], "uv_size": [-16, -16], "material_instance": "pot"}
+							}
+						},
+						{
+							"origin": [6, 16, -8],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [4, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"east": {"uv": [0, 14], "uv_size": [2, 2], "material_instance": "pot"},
+								"south": {"uv": [0, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"west": {"uv": [4, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"up": {"uv": [17, 2], "uv_size": [-2, -2]},
+								"down": {"uv": [0, 0], "uv_size": [0, 0], "material_instance": "pot"}
+							}
+						},
+						{
+							"origin": [6, 16, 6],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"east": {"uv": [12, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"south": {"uv": [8, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"west": {"uv": [0, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"up": {"uv": [14, 2], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-8, 16, 6],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [19, 5], "uv_size": [2, 2], "material_instance": "pot"},
+								"east": {"uv": [21, 1], "uv_size": [2, 2], "material_instance": "pot"},
+								"south": {"uv": [9, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"west": {"uv": [19, 6], "uv_size": [2, 2], "material_instance": "pot"},
+								"up": {"uv": [20, 15], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-8, 16, -8],
+							"size": [2, 2, 2],
+							"uv": {
+								"north": {"uv": [7, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"east": {"uv": [4, 0], "uv_size": [2, 2], "material_instance": "pot"},
+								"south": {"uv": [16, 14], "uv_size": [2, 2], "material_instance": "pot"},
+								"west": {"uv": [2, 7], "uv_size": [2, 2], "material_instance": "pot"},
+								"up": {"uv": [17, 2], "uv_size": [-2, -2]}
+							}
+						},
+						{
+							"origin": [-6, 16, -8],
+							"size": [12, 1, 2],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"south": {"uv": [19, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"up": {"uv": [30, 2], "uv_size": [-12, -2]}
+							}
+						},
+						{
+							"origin": [-6, 16, 6],
+							"size": [12, 1, 2],
+							"uv": {
+								"north": {"uv": [17, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"south": {"uv": [1, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"up": {"uv": [31, 2], "uv_size": [-12, -2]}
+							}
+						},
+						{
+							"origin": [-8, 16, -6],
+							"size": [2, 1, 12],
+							"uv": {
+								"east": {"uv": [17, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"west": {"uv": [4, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"up": {"uv": [32, 12], "uv_size": [-2, -12]}
+							}
+						},
+						{
+							"origin": [6, 16, -6],
+							"size": [2, 1, 12],
+							"uv": {
+								"east": {"uv": [0, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"west": {"uv": [18, 0], "uv_size": [12, 1], "material_instance": "pot"},
+								"up": {"uv": [19, 12], "uv_size": [-2, -12]}
+							}
+						},
+						{
+							"origin": [-8, 16, -8],
+							"size": [16, 0, 16],
+							"uv": {
+								"up": {"uv": [32, 16], "uv_size": [-32, -16], "material_instance": "farmland"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

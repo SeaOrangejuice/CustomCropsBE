@@ -24,7 +24,6 @@
 								"north": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
 								"east": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"south": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
-								"west": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"up": {"uv": [0, 16], "uv_size": [0, -16], "material_instance": "leaves"},
 								"down": {"uv": [0, 16], "uv_size": [0, -16], "material_instance": "leaves"}
 							}
@@ -37,7 +36,6 @@
 							"uv": {
 								"north": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"east": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
-								"south": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"west": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
 								"up": {"uv": [0, 16], "uv_size": [0, -16], "material_instance": "leaves"},
 								"down": {"uv": [0, 16], "uv_size": [0, -16], "material_instance": "leaves"}
@@ -49,7 +47,6 @@
 							"pivot": [8, 0, -8],
 							"rotation": [-45, 0, 0],
 							"uv": {
-								"north": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"east": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
 								"south": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"west": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
@@ -64,7 +61,6 @@
 							"rotation": [0, 0, 45],
 							"uv": {
 								"north": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
-								"east": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"south": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
 								"west": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
 								"up": {"uv": [0, 16], "uv_size": [0, -16], "material_instance": "leaves"},
