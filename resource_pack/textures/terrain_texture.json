@@ -48,6 +48,12 @@
         },
         "pitaya_stage": {
             "textures": "textures/blocks/crops/pitaya/pitaya"
+        },
+        "redpacket_stage": {
+            "textures": "textures/blocks/crops/redpacket/stage"
+        },
+        "fu_character": {
+            "textures": "textures/blocks/crops/redpacket/fu_character"
         }
     }
 }
