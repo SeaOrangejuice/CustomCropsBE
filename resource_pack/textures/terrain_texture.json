@@ -54,6 +54,9 @@
         },
         "fu_character": {
             "textures": "textures/blocks/crops/redpacket/fu_character"
+        },
+        "chinese_cabbage_stage": {
+            "textures": "textures/blocks/crops/chinese_cabbage/stage_1"
         }
     }
 }
