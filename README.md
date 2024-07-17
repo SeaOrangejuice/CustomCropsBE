@@ -1,4 +1,7 @@
 ## CustomCrops Resource Pack Bedrock Edition 
+
+### ❕Because of the study problem, I need to be disconnected from the Internet for a year.  
+
 This project was created for the Minecraft server plugin CustomCrops to provide Geyser display support for friends using CustomCrops.  
 该项目是为 Minecraft 服务器插件 CustomCrops 创建的，旨在为使用 CustomCrops 的朋友提供 Geyser 显示支持。   
 Due to my busy academic schedule, this project has not been completed yet. Maybe you can submit some geometry files to help me get it done quickly.  
