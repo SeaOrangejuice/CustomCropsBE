@@ -69,6 +69,18 @@
         },
         "corn_stage_4": {
             "textures": "textures/blocks/crops/corn/stage_4"
+        },
+        "eggplant_stage_1": {
+            "textures": "textures/blocks/crops/eggplant/stage_1"
+        },
+        "eggplant_stage_2": {
+            "textures": "textures/blocks/crops/eggplant/stage_2"
+        },
+        "eggplant_stage_3": {
+            "textures": "textures/blocks/crops/eggplant/stage_3"
+        },
+        "eggplant_stage_4": {
+            "textures": "textures/blocks/crops/eggplant/stage_4"
         }
     }
 }

@@ -628,6 +628,102 @@
                             10
                         ]
                     }
+                },
+                "attached=false,disarmed=false,east=true,north=false,powered=true,south=false,west=true": {
+                    "name": "eggplant_stage_1",
+                    "geometry": "geometry.customcrops.eggplant.stage_1",
+                    "material_instances": {
+                        "*": {
+                            "texture": "eggplant_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=false": {
+                    "name": "eggplant_stage_2",
+                    "geometry": "geometry.customcrops.eggplant.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "eggplant_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=true,south=false,west=false": {
+                    "name": "eggplant_stage_3",
+                    "geometry": "geometry.customcrops.eggplant.stage_3",
+                    "material_instances": {
+                        "*": {
+                            "texture": "eggplant_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=false,south=false,west=true": {
+                    "name": "eggplant_stage_4",
+                    "geometry": "geometry.customcrops.eggplant.stage_4",
+                    "material_instances": {
+                        "*": {
+                            "texture": "eggplant_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
                 }
             }
         }

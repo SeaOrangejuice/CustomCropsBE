@@ -1,0 +1,71 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.customcrops.eggplant.stage_1",
+				"texture_width": 64,
+				"texture_height": 64,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-0.37402, 0, -6.49182],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0, 16]},
+								"south": {"uv": [0, 0], "uv_size": [0, 16]},
+								"west": {"uv": [0, 0], "uv_size": [16, 16]},
+								"up": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 270},
+								"down": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 90}
+							}
+						},
+						{
+							"origin": [-8.57402, 0, 1.00818],
+							"size": [16, 16, 0],
+							"uv": {
+								"north": {"uv": [16, 0], "uv_size": [-16, 16]},
+								"east": {"uv": [0, 0], "uv_size": [0, 16]},
+								"west": {"uv": [0, 0], "uv_size": [0, 16]},
+								"up": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 180},
+								"down": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 180}
+							}
+						},
+						{
+							"origin": [1.2, 0, -12.5],
+							"size": [0, 16, 16],
+							"pivot": [7.6, 8, 0],
+							"rotation": [0, 45, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0, 16]},
+								"south": {"uv": [0, 0], "uv_size": [0, 16]},
+								"west": {"uv": [19, 0], "uv_size": [16, 16]},
+								"up": {"uv": [0, 16], "uv_size": [0, -16]},
+								"down": {"uv": [0, 16], "uv_size": [0, -16]}
+							}
+						},
+						{
+							"origin": [-0.26102, 0, -7.01005],
+							"size": [0, 16, 16],
+							"pivot": [-0.26102, 8, 0.98995],
+							"rotation": [0, -45, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0, 16]},
+								"east": {"uv": [19, 0], "uv_size": [16, 16]},
+								"south": {"uv": [0, 0], "uv_size": [0, 16]},
+								"up": {"uv": [0, 16], "uv_size": [0, -16]},
+								"down": {"uv": [0, 16], "uv_size": [0, -16]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}
