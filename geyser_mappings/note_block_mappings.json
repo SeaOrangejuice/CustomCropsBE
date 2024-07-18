@@ -1,51 +1,57 @@
 {
     "format_version": 1,
     "blocks": {
-        "minecraft:note_block[instrument=basedrum,note=0,powered=false]": {
-            "name": "dry_pot",
-            "geometry": "geometry.customcrops.crops_pot",
-            "material_instances": {
-                "*": {
-                    "texture": "crops_pot",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
+        "minecraft:note_block": {
+            "name": "note",
+            "only_override_states": true,
+            "state_overrides": {
+                "instrument=basedrum,note=0,powered=false": {
+                    "name": "dry_pot",
+                    "geometry": "geometry.customcrops.crops_pot",
+                    "material_instances": {
+                        "*": {
+                            "texture": "crops_pot",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "pot": {
+                            "texture": "crops_pot",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "farmland": {
+                            "texture": "farmland_dry",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    }
                 },
-                "pot": {
-                    "texture": "crops_pot",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                },
-                "farmland": {
-                    "texture": "farmland_dry",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                }
-            }
-        },
-        "minecraft:note_block[instrument=basedrum,note=1,powered=false]": {
-            "name": "wet_pot",
-            "geometry": "geometry.customcrops.crops_pot",
-            "material_instances": {
-                "*": {
-                    "texture": "crops_pot",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                },
-                "pot": {
-                    "texture": "crops_pot",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                },
-                "farmland": {
-                    "texture": "farmland_wet",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
+                "instrument=basedrum,note=1,powered=false": {
+                    "name": "wet_pot",
+                    "geometry": "geometry.customcrops.crops_pot",
+                    "material_instances": {
+                        "*": {
+                            "texture": "crops_pot",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "pot": {
+                            "texture": "crops_pot",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "farmland": {
+                            "texture": "farmland_wet",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    }
                 }
             }
         }

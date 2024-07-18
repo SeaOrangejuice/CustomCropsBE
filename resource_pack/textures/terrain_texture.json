@@ -57,6 +57,18 @@
         },
         "chinese_cabbage_stage": {
             "textures": "textures/blocks/crops/chinese_cabbage/stage_1"
+        },
+        "corn_stage_1": {
+            "textures": "textures/blocks/crops/corn/stage_1"
+        },
+        "corn_stage_2": {
+            "textures": "textures/blocks/crops/corn/stage_2"
+        },
+        "corn_stage_3": {
+            "textures": "textures/blocks/crops/corn/stage_3"
+        },
+        "corn_stage_4": {
+            "textures": "textures/blocks/crops/corn/stage_4"
         }
     }
 }

@@ -1,79 +1,85 @@
 {
     "format_version": 1,
     "blocks": {
-        "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=false,west=true]": {
-            "name": "greenhouse_glass",
-            "geometry": "geometry.customcrops.block",
-            "material_instances": {
-                "*": {
-                    "texture": "greenhouse_glass",
-                    "render_method": "blend",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                }
-            }
-        },
-        "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=false]": {
-            "name": "gigantic_pineapple",
-            "geometry": "geometry.customcrops.gigantic_pineapple",
-            "material_instances": {
-                "*": {
-                    "texture": "gigantic_pineapple",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
+        "minecraft:chorus_plant": {
+            "name": "chorus",
+            "only_override_states": true,
+            "state_overrides": {
+                "down=false,east=false,north=false,south=false,up=false,west=true": {
+                    "name": "greenhouse_glass",
+                    "geometry": "geometry.customcrops.block",
+                    "material_instances": {
+                        "*": {
+                            "texture": "greenhouse_glass",
+                            "render_method": "blend",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    }
                 },
-                "stage": {
-                    "texture": "gigantic_pineapple",
-                    "render_method": "alpha_test"
+                "down=false,east=false,north=false,south=false,up=true,west=false": {
+                    "name": "gigantic_pineapple",
+                    "geometry": "geometry.customcrops.gigantic_pineapple",
+                    "material_instances": {
+                        "*": {
+                            "texture": "gigantic_pineapple",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "gigantic_pineapple",
+                            "render_method": "alpha_test"
+                        },
+                        "leaves": {
+                            "texture": "pineapple_stage",
+                            "render_method": "alpha_test"
+                        }
+                    }
                 },
-                "leaves": {
-                    "texture": "pineapple_stage",
-                    "render_method": "alpha_test"
-                }
-            }
-        },
-        "minecraft:chorus_plant[down=false,east=false,north=false,south=false,up=true,west=true]": {
-            "name": "gigantic_cabbage",
-            "geometry": "geometry.customcrops.gigantic_cabbage",
-            "material_instances": {
-                "*": {
-                    "texture": "cabbage_side",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
+                "down=false,east=false,north=false,south=false,up=true,west=true": {
+                    "name": "gigantic_cabbage",
+                    "geometry": "geometry.customcrops.gigantic_cabbage",
+                    "material_instances": {
+                        "*": {
+                            "texture": "cabbage_side",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "side": {
+                            "texture": "cabbage_side",
+                            "render_method": "alpha_test"
+                        },
+                        "leaves": {
+                            "texture": "cabbage_leaves",
+                            "render_method": "alpha_test"
+                        },
+                        "stage": {
+                            "texture": "cabbage_stage_3",
+                            "render_method": "alpha_test"
+                        }
+                    }
                 },
-                "side": {
-                    "texture": "cabbage_side",
-                    "render_method": "alpha_test"
-                },
-                "leaves": {
-                    "texture": "cabbage_leaves",
-                    "render_method": "alpha_test"
-                },
-                "stage": {
-                    "texture": "cabbage_stage_3",
-                    "render_method": "alpha_test"
-                }
-            }
-        },
-        "minecraft:chorus_plant[down=false,east=false,north=false,south=true,up=false,west=false]": {
-            "name": "gigantic_tomato",
-            "geometry": "geometry.customcrops.gigantic_tomato",
-            "material_instances": {
-                "*": {
-                    "texture": "tomato_side",
-                    "render_method": "alpha_test",
-					"face_dimming": true,
-					"ambient_occlusion": true
-                },
-                "side": {
-                    "texture": "tomato_side",
-                    "render_method": "alpha_test"
-                },
-                "leaves": {
-                    "texture": "tomato_leaves",
-                    "render_method": "alpha_test"
+                "down=false,east=false,north=false,south=true,up=false,west=false": {
+                    "name": "gigantic_tomato",
+                    "geometry": "geometry.customcrops.gigantic_tomato",
+                    "material_instances": {
+                        "*": {
+                            "texture": "tomato_side",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "side": {
+                            "texture": "tomato_side",
+                            "render_method": "alpha_test"
+                        },
+                        "leaves": {
+                            "texture": "tomato_leaves",
+                            "render_method": "alpha_test"
+                        }
+                    }
                 }
             }
         }

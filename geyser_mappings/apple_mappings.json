@@ -3,11 +3,6 @@
     "items": {
         "minecraft:apple": [
             {
-                "#name": "your item's id on bedrock edition(string), dont change",
-                "#icon": "your item's texture on resource pack(string), dont change",
-                "#custom_model_data": "your item's custom_model_data in java edition(int), change it!!!"
-            },
-            {
                 "name": "pepper",
                 "icon": "pepper",
                 "custom_model_data": 10000
