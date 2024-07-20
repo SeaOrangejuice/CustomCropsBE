@@ -1,0 +1,57 @@
+{
+	"format_version": "1.21.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.customcrops.tomato.stage_1",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "bone",
+					"pivot": [8, 0, -8],
+					"cubes": [
+						{
+							"origin": [-1, 0, -1],
+							"size": [2, 16, 2],
+							"uv": {
+								"north": {"uv": [11, 0], "uv_size": [2, 16], "material_instance": "center"},
+								"east": {"uv": [8, 0], "uv_size": [2, 16], "material_instance": "center"},
+								"south": {"uv": [14, 0], "uv_size": [2, 16], "material_instance": "center"},
+								"west": {"uv": [6, 0], "uv_size": [2, 16], "material_instance": "center"},
+								"up": {"uv": [10, 3], "uv_size": [-2, -2], "material_instance": "center"},
+								"down": {"uv": [12, 11], "uv_size": [-2, -2], "material_instance": "center"}
+							}
+						},
+						{
+							"origin": [-8, 0, 0],
+							"size": [16, 16, 0],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
+								"east": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
+								"west": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
+								"up": {"uv": [16, 0], "uv_size": [-16, 0], "material_instance": "leaves"},
+								"down": {"uv": [16, 0], "uv_size": [-16, 0], "material_instance": "leaves"}
+							}
+						},
+						{
+							"origin": [0, 0, -8],
+							"size": [0, 16, 16],
+							"uv": {
+								"north": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
+								"east": {"uv": [0, 0], "uv_size": [16, 16], "material_instance": "leaves"},
+								"south": {"uv": [0, 0], "uv_size": [0, 16], "material_instance": "leaves"},
+								"up": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 270, "material_instance": "leaves"},
+								"down": {"uv": [16, 0], "uv_size": [-16, 0], "uv_rotation": 90, "material_instance": "leaves"}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

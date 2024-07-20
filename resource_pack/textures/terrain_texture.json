@@ -81,6 +81,24 @@
         },
         "eggplant_stage_4": {
             "textures": "textures/blocks/crops/eggplant/stage_4"
+        },
+        "tomato_stage_1": {
+            "textures": "textures/blocks/crops/tomato/stage_1"
+        },
+        "tomato_stage_2": {
+            "textures": "textures/blocks/crops/tomato/stage_2"
+        },
+        "tomato_stage_3": {
+            "textures": "textures/blocks/crops/tomato/stage_3"
+        },
+        "tomato_stage_4": {
+            "textures": "textures/blocks/crops/tomato/stage_4"
+        },
+        "tomato_center": {
+            "textures": "textures/blocks/sprinklers/sprinkler_1"
+        },
+        "tomato_golden": {
+            "textures": "textures/items/crops/tomato/golden_tomato"
         }
     }
 }
