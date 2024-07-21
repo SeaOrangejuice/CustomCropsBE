@@ -742,7 +742,7 @@
                             "ambient_occlusion": true
                         },
                         "center": {
-                            "texture": "tomato_center",
+                            "texture": "crops_stick",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true
@@ -778,7 +778,7 @@
                             "ambient_occlusion": true
                         },
                         "center": {
-                            "texture": "tomato_center",
+                            "texture": "crops_stick",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true
@@ -814,7 +814,7 @@
                             "ambient_occlusion": true
                         },
                         "center": {
-                            "texture": "tomato_center",
+                            "texture": "crops_stick",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true
@@ -856,7 +856,7 @@
                             "ambient_occlusion": true
                         },
                         "center": {
-                            "texture": "tomato_center",
+                            "texture": "crops_stick",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true
@@ -898,13 +898,355 @@
                             "ambient_occlusion": true
                         },
                         "center": {
-                            "texture": "tomato_center",
+                            "texture": "crops_stick",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true
                         },
                         "tomato": {
                             "texture": "tomato_golden",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=false": {
+                    "name": "hop_stage_1",
+                    "geometry": "geometry.customcrops.hop.stage_1",
+                    "material_instances": {
+                        "*": {
+                            "texture": "hop_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=false": {
+                    "name": "hop_stage_2",
+                    "geometry": "geometry.customcrops.hop.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "hop_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=false,south=true,west=true": {
+                    "name": "hop_stage_3",
+                    "geometry": "geometry.customcrops.hop.stage_3",
+                    "material_instances": {
+                        "*": {
+                            "texture": "hop_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=false,powered=true,south=true,west=true": {
+                    "name": "hop_stage_4",
+                    "geometry": "geometry.customcrops.hop.stage_4",
+                    "material_instances": {
+                        "*": {
+                            "texture": "hop_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=false": {
+                    "name": "grape_stage_1",
+                    "geometry": "geometry.customcrops.grape.stage_1",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=false": {
+                    "name": "grape_stage_2",
+                    "geometry": "geometry.customcrops.grape.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=false,south=false,west=true": {
+                    "name": "grape_stage_3",
+                    "geometry": "geometry.customcrops.grape.stage_3",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=true,south=false,west=true": {
+                    "name": "grape_stage_4",
+                    "geometry": "geometry.customcrops.grape.stage_4",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "top_leaves": {
+                            "texture": "grape_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=false,south=false,west=false": {
+                    "name": "grape_stage_5",
+                    "geometry": "geometry.customcrops.grape.stage_5",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "top_leaves": {
+                            "texture": "grape_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "flower": {
+                            "texture": "grape_stage_5",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=true,south=false,west=false": {
+                    "name": "grape_stage_6",
+                    "geometry": "geometry.customcrops.grape.stage_6",
+                    "material_instances": {
+                        "*": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stick": {
+                            "texture": "crops_stick",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "grape_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "top_leaves": {
+                            "texture": "grape_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "grape": {
+                            "texture": "grape_stage",
                             "render_method": "alpha_test",
                             "face_dimming": true,
                             "ambient_occlusion": true

@@ -94,11 +94,32 @@
         "tomato_stage_4": {
             "textures": "textures/blocks/crops/tomato/stage_4"
         },
-        "tomato_center": {
+        "crops_stick": {
             "textures": "textures/blocks/sprinklers/sprinkler_1"
         },
         "tomato_golden": {
             "textures": "textures/items/crops/tomato/golden_tomato"
+        },
+        "hop_stage": {
+            "textures": "textures/blocks/crops/hop/stage"
+        },
+        "grape_stage_1": {
+            "textures": "textures/blocks/crops/grape/stage_1"
+        },
+        "grape_stage_2": {
+            "textures": "textures/blocks/crops/grape/stage_2"
+        },
+        "grape_stage_3": {
+            "textures": "textures/blocks/crops/grape/stage_3"
+        },
+        "grape_stage_4": {
+            "textures": "textures/blocks/crops/grape/stage_4"
+        },
+        "grape_stage_5": {
+            "textures": "textures/blocks/crops/grape/stage_5"
+        },
+        "grape_stage": {
+            "textures": "textures/items/crops/grape/grape"
         }
     }
 }
