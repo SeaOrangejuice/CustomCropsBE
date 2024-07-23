@@ -1264,6 +1264,498 @@
                             10
                         ]
                     }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=false,south=false,west=true": {
+                    "name": "apple_stage_1",
+                    "geometry": "geometry.customcrops.apple.stage_1",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=true,south=false,west=true": {
+                    "name": "apple_stage_2",
+                    "geometry": "geometry.customcrops.apple.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=false,south=true,west=false": {
+                    "name": "apple_stage_3",
+                    "geometry": "geometry.customcrops.apple.stage_3",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=true,south=true,west=false": {
+                    "name": "apple_stage_4",
+                    "geometry": "geometry.customcrops.apple.stage_4",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=false,south=true,west=true": {
+                    "name": "apple_stage_5",
+                    "geometry": "geometry.customcrops.apple.stage_5",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=true,north=true,powered=true,south=true,west=true": {
+                    "name": "apple_stage_6",
+                    "geometry": "geometry.customcrops.apple.stage_6",
+                    "material_instances": {
+                        "*": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "stage": {
+                            "texture": "apple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "log": {
+                            "texture": "apple_log",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=false": {
+                    "name": "garlic_stage_1",
+                    "geometry": "geometry.customcrops.garlic.stage_1",
+                    "material_instances": {
+                        "*": {
+                            "texture": "garlic_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=false": {
+                    "name": "garlic_stage_2",
+                    "geometry": "geometry.customcrops.garlic.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "garlic_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "roots": {
+                            "texture": "garlic_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "garlic_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=true": {
+                    "name": "garlic_stage_3",
+                    "geometry": "geometry.customcrops.garlic.stage_3",
+                    "material_instances": {
+                        "*": {
+                            "texture": "garlic_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "roots": {
+                            "texture": "garlic_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "garlic_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=true": {
+                    "name": "garlic_stage_4",
+                    "geometry": "geometry.customcrops.garlic.stage_4",
+                    "material_instances": {
+                        "*": {
+                            "texture": "garlic_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "roots": {
+                            "texture": "garlic_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        },
+                        "leaves": {
+                            "texture": "garlic_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=false": {
+                    "name": "pepper_stage_1",
+                    "geometry": "geometry.customcrops.pepper.stage_base",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pepper_stage_1",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=true": {
+                    "name": "pepper_stage_2",
+                    "geometry": "geometry.customcrops.pepper.stage_base",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pepper_stage_2",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=false,east=false,north=false,powered=true,south=false,west=true": {
+                    "name": "pepper_stage_3",
+                    "geometry": "geometry.customcrops.pepper.stage_base",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pepper_stage_3",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false": {
+                    "name": "pepper_stage_4",
+                    "geometry": "geometry.customcrops.pepper.stage_base",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pepper_stage_4",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=false,north=false,powered=true,south=false,west=false": {
+                    "name": "pepper_stage_5",
+                    "geometry": "geometry.customcrops.pepper.stage_base",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pepper_stage_5",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
+                },
+                "attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=true": {
+                    "name": "dead_crop",
+                    "geometry": "geometry.customcrops.dead_crop",
+                    "material_instances": {
+                        "*": {
+                            "texture": "dead_crop",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
                 }
             }
         }

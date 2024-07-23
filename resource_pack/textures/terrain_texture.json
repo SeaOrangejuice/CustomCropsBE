@@ -16,9 +16,6 @@
         "farmland_wet": {
             "textures": "textures/blocks/basics/farmland_wet"
         },
-        "apple_stage": {
-            "textures": "textures/blocks/crops/apple/stage"
-        },
         "cabbage_stage_1": {
             "textures": "textures/blocks/crops/cabbage/stage_1"
         },
@@ -120,6 +117,42 @@
         },
         "grape_stage": {
             "textures": "textures/items/crops/grape/grape"
+        },
+        "apple_log": {
+            "textures": "textures/blocks/crops/apple/log_oak"
+        },
+        "apple_stage": {
+            "textures": "textures/blocks/crops/apple/stage"
+        },
+        "garlic_stage_1": {
+            "textures": "textures/blocks/crops/garlic/stage_1"
+        },
+        "garlic_stage_2": {
+            "textures": "textures/blocks/crops/garlic/stage_2"
+        },
+        "garlic_stage_3": {
+            "textures": "textures/blocks/crops/garlic/stage_3"
+        },
+        "garlic_stage_4": {
+            "textures": "textures/blocks/crops/garlic/stage_4"
+        },
+        "pepper_stage_1": {
+            "textures": "textures/blocks/crops/pepper/stage_1"
+        },
+        "pepper_stage_2": {
+            "textures": "textures/blocks/crops/pepper/stage_2"
+        },
+        "pepper_stage_3": {
+            "textures": "textures/blocks/crops/pepper/stage_3"
+        },
+        "pepper_stage_4": {
+            "textures": "textures/blocks/crops/pepper/stage_4"
+        },
+        "pepper_stage_5": {
+            "textures": "textures/blocks/crops/pepper/stage_5"
+        },
+        "dead_crop": {
+            "textures": "textures/blocks/basics/dead_crop"
         }
     }
 }
