@@ -44,7 +44,10 @@
             "textures": "textures/blocks/crops/tomato/tomato_leaves"
         },
         "pitaya_stage": {
-            "textures": "textures/blocks/crops/pitaya/pitaya"
+            "textures": "textures/blocks/crops/pitaya/stage"
+        },
+        "pitaya_log": {
+            "textures": "textures/blocks/crops/pitaya/log_spruce"
         },
         "redpacket_stage": {
             "textures": "textures/blocks/crops/redpacket/stage"
