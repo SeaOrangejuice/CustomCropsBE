@@ -1,5 +1,5 @@
 {
-	"format_version": "1.12.0",
+	"format_version": "1.21.0",
 	"minecraft:geometry": [
 		{
 			"description": {
@@ -34,7 +34,7 @@
 								"east": {"uv": [0, 14], "uv_size": [2, 2], "material_instance": "pot"},
 								"south": {"uv": [0, 0], "uv_size": [2, 2], "material_instance": "pot"},
 								"west": {"uv": [4, 0], "uv_size": [2, 2], "material_instance": "pot"},
-								"up": {"uv": [17, 2], "uv_size": [-2, -2]},
+								"up": {"uv": [17, 2], "uv_size": [-2, -2], "material_instance": "pot"},
 								"down": {"uv": [0, 0], "uv_size": [0, 0], "material_instance": "pot"}
 							}
 						},
@@ -46,7 +46,7 @@
 								"east": {"uv": [12, 0], "uv_size": [2, 2], "material_instance": "pot"},
 								"south": {"uv": [8, 0], "uv_size": [2, 2], "material_instance": "pot"},
 								"west": {"uv": [0, 0], "uv_size": [2, 2], "material_instance": "pot"},
-								"up": {"uv": [14, 2], "uv_size": [-2, -2]}
+								"up": {"uv": [14, 2], "uv_size": [-2, -2], "material_instance": "pot"}
 							}
 						},
 						{
@@ -57,7 +57,7 @@
 								"east": {"uv": [21, 1], "uv_size": [2, 2], "material_instance": "pot"},
 								"south": {"uv": [9, 0], "uv_size": [2, 2], "material_instance": "pot"},
 								"west": {"uv": [19, 6], "uv_size": [2, 2], "material_instance": "pot"},
-								"up": {"uv": [20, 15], "uv_size": [-2, -2]}
+								"up": {"uv": [20, 15], "uv_size": [-2, -2], "material_instance": "pot"}
 							}
 						},
 						{
@@ -68,7 +68,7 @@
 								"east": {"uv": [4, 0], "uv_size": [2, 2], "material_instance": "pot"},
 								"south": {"uv": [16, 14], "uv_size": [2, 2], "material_instance": "pot"},
 								"west": {"uv": [2, 7], "uv_size": [2, 2], "material_instance": "pot"},
-								"up": {"uv": [17, 2], "uv_size": [-2, -2]}
+								"up": {"uv": [17, 2], "uv_size": [-2, -2], "material_instance": "pot"}
 							}
 						},
 						{
@@ -77,7 +77,7 @@
 							"uv": {
 								"north": {"uv": [0, 0], "uv_size": [12, 1], "material_instance": "pot"},
 								"south": {"uv": [19, 0], "uv_size": [12, 1], "material_instance": "pot"},
-								"up": {"uv": [30, 2], "uv_size": [-12, -2]}
+								"up": {"uv": [30, 2], "uv_size": [-12, -2], "material_instance": "pot"}
 							}
 						},
 						{
@@ -86,7 +86,7 @@
 							"uv": {
 								"north": {"uv": [17, 0], "uv_size": [12, 1], "material_instance": "pot"},
 								"south": {"uv": [1, 0], "uv_size": [12, 1], "material_instance": "pot"},
-								"up": {"uv": [31, 2], "uv_size": [-12, -2]}
+								"up": {"uv": [31, 2], "uv_size": [-12, -2], "material_instance": "pot"}
 							}
 						},
 						{
@@ -95,7 +95,7 @@
 							"uv": {
 								"east": {"uv": [17, 0], "uv_size": [12, 1], "material_instance": "pot"},
 								"west": {"uv": [4, 0], "uv_size": [12, 1], "material_instance": "pot"},
-								"up": {"uv": [32, 12], "uv_size": [-2, -12]}
+								"up": {"uv": [12, 2], "uv_size": [-12, -2], "uv_rotation": 90, "material_instance": "pot"}
 							}
 						},
 						{
@@ -104,7 +104,7 @@
 							"uv": {
 								"east": {"uv": [0, 0], "uv_size": [12, 1], "material_instance": "pot"},
 								"west": {"uv": [18, 0], "uv_size": [12, 1], "material_instance": "pot"},
-								"up": {"uv": [19, 12], "uv_size": [-2, -12]}
+								"up": {"uv": [31, 2], "uv_size": [-14, -2], "uv_rotation": 90, "material_instance": "pot"}
 							}
 						},
 						{

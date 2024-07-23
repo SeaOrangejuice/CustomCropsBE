@@ -1948,6 +1948,30 @@
                             10
                         ]
                     }
+                },
+                "attached=false,disarmed=true,east=false,north=false,powered=false,south=true,west=true": {
+                    "name": "pineapple_stage_2",
+                    "geometry": "geometry.customcrops.pineapple.stage_2",
+                    "material_instances": {
+                        "*": {
+                            "texture": "pineapple_stage",
+                            "render_method": "alpha_test",
+                            "face_dimming": true,
+                            "ambient_occlusion": true
+                        }
+                    },
+                    "selection_box": {
+                        "origin": [
+                            -5,
+                            0,
+                            -5
+                        ],
+                        "size": [
+                            10,
+                            1,
+                            10
+                        ]
+                    }
                 }
             }
         }

@@ -1,14 +1,14 @@
 {
-	"format_version": "1.12.0",
+	"format_version": "1.21.0",
 	"minecraft:geometry": [
 		{
 			"description": {
 				"identifier": "geometry.customcrops.chinese_cabbage.stage_2",
 				"texture_width": 64,
 				"texture_height": 64,
-				"visible_bounds_width": 3,
-				"visible_bounds_height": 3,
-				"visible_bounds_offset": [0, 0.5, 0]
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
 			},
 			"bones": [
 				{
@@ -59,11 +59,11 @@
 							"pivot": [-5.80772, 1.69591, 0.81067],
 							"rotation": [0, 0, 45],
 							"uv": {
-								"north": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 90},
-								"east": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 90},
-								"south": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 90},
-								"west": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 90},
-								"up": {"uv": [64, 0], "uv_size": [-12, 12], "uv_rotation": 90}
+								"north": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 90},
+								"east": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 90},
+								"south": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 90},
+								"west": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 90},
+								"up": {"uv": [48, 37], "uv_size": [-12, -12], "uv_rotation": 90}
 							}
 						},
 						{
@@ -72,11 +72,11 @@
 							"pivot": [6.55, 0.18198, -0.38933],
 							"rotation": [0, 0, -45],
 							"uv": {
-								"north": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 270},
-								"east": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 270},
-								"south": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 270},
-								"west": {"uv": [52, 0], "uv_size": [12, 12], "uv_rotation": 270},
-								"up": {"uv": [64, 12], "uv_size": [-12, -12], "uv_rotation": 270}
+								"north": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 270},
+								"east": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 270},
+								"south": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 270},
+								"west": {"uv": [36, 25], "uv_size": [12, 12], "uv_rotation": 270},
+								"up": {"uv": [48, 37], "uv_size": [-12, -12], "uv_rotation": 270}
 							}
 						},
 						{
