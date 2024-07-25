@@ -34,12 +34,12 @@
             },
             {
                 "name": "dry_pot_item",
-                "icon": "paper",
+                "icon": "dry_pot_item",
                 "custom_model_data": 10013
             },
             {
                 "name": "wet_pot_item",
-                "icon": "paper",
+                "icon": "wet_pot_item",
                 "custom_model_data": 10014
             },
             {
@@ -55,12 +55,12 @@
             },
             {
                 "name": "scarecrow",
-                "icon": "paper",
+                "icon": "scarecrow_item",
                 "custom_model_data": 10017
             },
             {
                 "name": "greenhouse_glass",
-                "icon": "paper",
+                "icon": "greenhouse_glass_item",
                 "custom_model_data": 10018
             },
             {

@@ -201,19 +201,31 @@
             "textures": "textures/items/sprinklers/sprinkler_3_item"
         },
         "watering_can_1": {
-            "textures": "textures/items/wateringcans/watering_can_1"
+            "textures": "textures/items/wateringcans/can_1"
         },
         "watering_can_2": {
-            "textures": "textures/items/wateringcans/watering_can_2"
+            "textures": "textures/items/wateringcans/can_2"
         },
         "watering_can_3": {
-            "textures": "textures/items/wateringcans/watering_can_3"
+            "textures": "textures/items/wateringcans/can_3"
         },
         "watering_can_4": {
-            "textures": "textures/items/wateringcans/watering_can_4"
+            "textures": "textures/items/wateringcans/can_4"
         },
         "crop_stage_death": {
             "textures": "textures/blocks/basics/dead_crop"
+        },
+        "greenhouse_glass_item": {
+            "textures": "textures/blocks/basics/greenhouse_glass"
+        },
+        "dry_pot_item": {
+            "textures": "textures/items/basics/dry_pot"
+        },
+        "wet_pot_item": {
+            "textures": "textures/items/basics/wet_pot"
+        },
+        "scarecrow_item": {
+            "textures": "textures/items/basics/scarecrow_item"
         }
     }
 }
