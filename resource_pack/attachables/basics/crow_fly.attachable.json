@@ -8,7 +8,6 @@
                 "enchanted": "entity_alphatest_glint"
             },
             "textures": {
-                "default": "textures/items/basics/crow_fly_0",
                 "t0": "textures/items/basics/crow_fly_0",
                 "t1": "textures/items/basics/crow_fly_1",
                 "enchanted": "textures/misc/enchanted_item_glint"

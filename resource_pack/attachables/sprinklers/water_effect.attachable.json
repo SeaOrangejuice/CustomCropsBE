@@ -8,7 +8,6 @@
                 "enchanted": "entity_alphatest_glint"
             },
             "textures": {
-                "default": "textures/items/sprinklers/water_effect_0",
                 "t0": "textures/items/sprinklers/water_effect_0",
                 "t1": "textures/items/sprinklers/water_effect_1",
                 "t2": "textures/items/sprinklers/water_effect_2",
