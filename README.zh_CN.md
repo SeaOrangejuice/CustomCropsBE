@@ -13,4 +13,4 @@
 将mappings文件放入custom_mappings文件夹。  
 将资源包放入packs文件夹。   
 把customcrops家具的展示框修改成盔甲架。(在itemsadder)   
-
+![photo](photo.jpg)
