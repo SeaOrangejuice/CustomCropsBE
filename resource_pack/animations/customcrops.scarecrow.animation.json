@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.customcrops.scarecrow.first_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [25, 0, -145],
+					"position": [-8.53553, 27.52208, 5.30814],
+					"scale": [1, 0.6, 0.6]
+				}
+			}
+		},
+		"animation.customcrops.scarecrow.third_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [73.37946, 48.65407, 47.90843],
+					"position": [-11, 14.29942, -0.72569],
+					"scale": [0.6, 0.6, 1]
+				}
+			}
+		},
+		"animation.customcrops.scarecrow.idle": {
+			"loop": true
+		}
+	}
+}

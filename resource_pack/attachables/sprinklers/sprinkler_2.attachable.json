@@ -1,0 +1,57 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "geyser_custom:sprinkler_2",
+            "materials": {
+                "default": "entity_alphatest",
+                "enchanted": "entity_alphatest_glint"
+            },
+            "textures": {
+                "default": "textures/items/sprinklers/sprinkler_2",
+                "enchanted": "textures/misc/enchanted_item_glint"
+            },
+            "geometry": {
+                "default": "geometry.customcrops.sprinkler_1_2"
+            },
+            "scripts": {
+                "pre_animation": [
+                    "v.main_hand = c.item_slot == 'main_hand';",
+                    "v.off_hand = c.item_slot == 'off_hand';",
+                    "v.head = c.item_slot == 'head';"
+                ],
+                "animate": [
+                    {
+                        "thirdperson_main_hand": "v.main_hand && !c.is_first_person"
+                    },
+                    {
+                        "thirdperson_off_hand": "v.off_hand && !c.is_first_person"
+                    },
+                    {
+                        "thirdperson_head": "v.head && !c.is_first_person"
+                    },
+                    {
+                        "firstperson_main_hand": "v.main_hand && c.is_first_person"
+                    },
+                    {
+                        "firstperson_off_hand": "v.off_hand && c.is_first_person"
+                    },
+                    {
+                        "firstperson_head": "c.is_first_person && v.head"
+                    }
+                ]
+            },
+            "animations": {
+                "thirdperson_main_hand": "animation.customcrops.sprinkler_1_2.third_person",
+                "thirdperson_off_hand": "animation.customcrops.sprinkler_1_2.third_person",
+                "thirdperson_head": "animation.customcrops.sprinkler_1_2.idle",
+                "firstperson_main_hand": "animation.customcrops.sprinkler_1_2.first_person",
+                "firstperson_off_hand": "animation.customcrops.sprinkler_1_2.first_person",
+                "firstperson_head": "animation.customcrops.sprinkler_1_2.idle"
+            },
+            "render_controllers": [
+                "controller.render.item_default"
+            ]
+        }
+    }
+}

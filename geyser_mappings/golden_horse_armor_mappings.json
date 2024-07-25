@@ -4,22 +4,22 @@
         "minecraft:golden_horse_armor": [
             {
                 "name": "watering_can_1",
-                "icon": "watering_can_1",
+                "icon": "golden_horse_armor",
                 "custom_model_data": 10000
             },
             {
                 "name": "watering_can_2",
-                "icon": "watering_can_2",
+                "icon": "golden_horse_armor",
                 "custom_model_data": 10001
             },
             {
                 "name": "watering_can_3",
-                "icon": "watering_can_3",
+                "icon": "golden_horse_armor",
                 "custom_model_data":10002
             },
             {
                 "name": "watering_can_4",
-                "icon": "watering_can_4",
+                "icon": "golden_horse_armor",
                 "custom_model_data": 10003
             }
         ]

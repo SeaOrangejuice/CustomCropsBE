@@ -1,0 +1,39 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "geyser_custom:watering_can_3",
+            "materials": {
+                "default": "entity_alphatest",
+                "enchanted": "entity_alphatest_glint"
+            },
+            "textures": {
+                "default": "textures/items/wateringcans/watering_can_3",
+                "enchanted": "textures/misc/enchanted_item_glint"
+            },
+            "geometry": {
+                "default": "geometry.customcrops.watering_can"
+            },
+            "animations": {
+                "wield": "animation.customcrops.watering_can.first_person",
+                "third_person": "animation.customcrops.watering_can.third_person"
+            },
+            "scripts": {
+                "animate": [
+                    {
+                        "wield": "c.is_first_person"
+                    },
+                    {
+                        "third_person": "!c.is_first_person"
+                    },
+                    {
+                        "wield_first_person_pull": "query.main_hand_item_use_duration > 0.0f && c.is_first_person"
+                    }
+                ]
+            },
+            "render_controllers": [
+                "controller.render.item_default"
+            ]
+        }
+    }
+}

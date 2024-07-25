@@ -1,6 +1,6 @@
 {
     "texture_name": "atlas.terrain",
-    "resource_pack_name": "wiki",
+    "resource_pack_name": "customcropsbe",
     "padding": 8,
     "num_mip_levels": 4,
     "texture_data": {
@@ -95,7 +95,7 @@
             "textures": "textures/blocks/crops/tomato/stage_4"
         },
         "crops_stick": {
-            "textures": "textures/blocks/sprinklers/sprinkler_1"
+            "textures": "textures/items/sprinklers/sprinkler_1"
         },
         "tomato_golden": {
             "textures": "textures/items/crops/tomato/golden_tomato"

@@ -1,0 +1,27 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.customcrops.crow_fly.first_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [34.49225, 61.87449, -81.04393],
+					"position": [-7.37761, 22.30219, -5.84663]
+				}
+			}
+		},
+		"animation.customcrops.crow_fly.third_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [64.32396, 31.99975, 15.00046],
+					"position": [-7.24016, 15.25036, -0.46506],
+					"scale": [0.8, 1, 0.7]
+				}
+			}
+		},
+		"animation.customcrops.crow_fly.idle": {
+			"loop": true
+		}
+	}
+}

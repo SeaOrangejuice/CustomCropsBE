@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.customcrops.sprinkler_1_2": {
+			"loop": true
+		},
+		"animation.customcrops.sprinkler_1_2.first_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [180, 0, 0],
+					"position": [-8, 32, 13]
+				}
+			}
+		},
+		"animation.customcrops.sprinkler_1_2.third_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [80, 0, 0],
+					"position": [0, 15.23598, 5.73279]
+				}
+			}
+		},
+		"animation.customcrops.sprinkler_1_2.idle": {
+			"loop": true
+		}
+	}
+}

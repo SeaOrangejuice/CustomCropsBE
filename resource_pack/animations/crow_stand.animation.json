@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.customcrops.crow_stand.first_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": [28.87006, 18.52836, -83.94955],
+					"position": [-8.72044, 30.85322, -2.45613]
+				}
+			}
+		},
+		"animation.customcrops.crow_stand.third_person": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"position": [-1, 17, -4]
+				}
+			}
+		},
+		"animation.customcrops.crow_stand.idle": {
+			"loop": true
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "format_version": "1.10",
+    "render_controllers": {
+        "controller.render.crow_fly": {
+            "geometry": "geometry.default",
+            "materials": [
+                {
+                    "*": "variable.is_enchanted ? material.enchanted : material.default"
+                }
+            ],
+            "textures": [
+                "t.time = q.life_time * 4; return array.skins[t.time];",
+                "texture.enchanted"
+            ],
+            "arrays": {
+                "textures": {
+                    "Array.skins": [
+                        "Texture.t0",
+                        "Texture.t1"
+                    ]
+                }
+            }
+        }
+    }
+}

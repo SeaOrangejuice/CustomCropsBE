@@ -3,9 +3,70 @@
     "items": {
         "minecraft:paper": [
             {
+                "name": "pepper_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10007
+            },
+            {
+                "name": "pepper_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10008
+            },
+            {
+                "name": "pepper_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10009
+            },
+            {
+                "name": "pepper_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10010
+            },
+            {
+                "name": "pepper_stage_5_item",
+                "icon": "paper",
+                "custom_model_data": 10011
+            },
+            {
                 "name": "pepper_seeds",
                 "icon": "pepper_seeds",
                 "custom_model_data": 10012
+            },
+            {
+                "name": "dry_pot_item",
+                "icon": "paper",
+                "custom_model_data": 10013
+            },
+            {
+                "name": "wet_pot_item",
+                "icon": "paper",
+                "custom_model_data": 10014
+            },
+            {
+                "name": "crow_stand",
+                "icon": "paper",
+                "custom_model_data": 10015
+            },
+            {
+                "name": "crow_fly",
+                "icon": "paper",
+                "custom_model_data": 10016,
+                "texture_size": 64
+            },
+            {
+                "name": "scarecrow",
+                "icon": "paper",
+                "custom_model_data": 10017
+            },
+            {
+                "name": "greenhouse_glass",
+                "icon": "paper",
+                "custom_model_data": 10018
+            },
+            {
+                "name": "crop_stage_death",
+                "icon": "crop_stage_death",
+                "custom_model_data": 10019
             },
             {
                 "name": "soil_surveyor",
@@ -13,14 +74,69 @@
                 "custom_model_data": 10020
             },
             {
+                "name": "pitaya_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10021
+            },
+            {
+                "name": "pitaya_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10022
+            },
+            {
+                "name": "pitaya_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10023
+            },
+            {
+                "name": "pitaya_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10024
+            },
+            {
+                "name": "pitaya_stage_5_item",
+                "icon": "paper",
+                "custom_model_data": 10025
+            },
+            {
+                "name": "pitaya_stage_6_item",
+                "icon": "paper",
+                "custom_model_data": 10026
+            },
+            {
                 "name": "pitaya_seeds",
                 "icon": "pitaya_seeds",
                 "custom_model_data": 10027
             },
             {
+                "name": "pineapple_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10028
+            },
+            {
+                "name": "pineapple_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10029
+            },
+            {
+                "name": "pineapple_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10030
+            },
+            {
+                "name": "pineapple_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10031
+            },
+            {
                 "name": "pineapple_seeds",
                 "icon": "pineapple_seeds",
                 "custom_model_data": 10032
+            },
+            {
+                "name": "gigantic_pineapple_item",
+                "icon": "paper",
+                "custom_model_data": 10033
             },
             {
                 "name": "speed_grow_1",
@@ -98,9 +214,64 @@
                 "custom_model_data": 10048
             },
             {
+                "name": "cabbage_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10049
+            },
+            {
+                "name": "cabbage_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10050
+            },
+            {
+                "name": "cabbage_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10051
+            },
+            {
+                "name": "cabbage_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10052
+            },
+            {
                 "name": "cabbage_seeds",
                 "icon": "cabbage_seeds",
                 "custom_model_data": 10053
+            },
+            {
+                "name": "gigantic_cabbage_item",
+                "icon": "paper",
+                "custom_model_data": 10054
+            },
+            {
+                "name": "redpacket_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10055
+            },
+            {
+                "name": "redpacket_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10056
+            },
+            {
+                "name": "redpacket_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10057
+            },
+            {
+                "name": "redpacket_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10058
+            },
+            {
+                "name": "redpacket_stage_5_item",
+                "icon": "paper",
+                "custom_model_data": 10059
+            },
+            {
+                "name": "redpacket_stage_6_item",
+                "icon": "paper",
+                "custom_model_data": 10060
             },
             {
                 "name": "redpacket_seeds",
@@ -108,9 +279,54 @@
                 "custom_model_data": 10061
             },
             {
+                "name": "redpacket",
+                "icon": "redpacket",
+                "custom_model_data": 10062
+            },
+            {
+                "name": "chinese_cabbage_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10063
+            },
+            {
+                "name": "chinese_cabbage_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10064
+            },
+            {
+                "name": "chinese_cabbage_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10065
+            },
+            {
+                "name": "chinese_cabbage_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10066
+            },
+            {
                 "name": "chinese_cabbage_seeds",
                 "icon": "chinese_cabbage_seeds",
                 "custom_model_data": 10067
+            },
+            {
+                "name": "corn_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10068
+            },
+            {
+                "name": "corn_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10069
+            },
+            {
+                "name": "corn_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10070
+            },
+            {
+                "name": "corn_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10071
             },
             {
                 "name": "corn_seeds",
@@ -118,9 +334,54 @@
                 "custom_model_data": 10072
             },
             {
+                "name": "eggplant_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10073
+            },
+            {
+                "name": "eggplant_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10074
+            },
+            {
+                "name": "eggplant_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10075
+            },
+            {
+                "name": "eggplant_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10076
+            },
+            {
                 "name": "eggplant_seeds",
                 "icon": "eggplant_seeds",
                 "custom_model_data": 10077
+            },
+            {
+                "name": "tomato_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10078
+            },
+            {
+                "name": "tomato_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10079
+            },
+            {
+                "name": "tomato_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10080
+            },
+            {
+                "name": "tomato_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10081
+            },
+            {
+                "name": "tomato_stage_golden_item",
+                "icon": "paper",
+                "custom_model_data": 10082
             },
             {
                 "name": "tomato_seeds",
@@ -128,9 +389,64 @@
                 "custom_model_data": 10083
             },
             {
+                "name": "gigantic_tomato_item",
+                "icon": "paper",
+                "custom_model_data": 10084
+            },
+            {
+                "name": "hop_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10085
+            },
+            {
+                "name": "hop_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10086
+            },
+            {
+                "name": "hop_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10087
+            },
+            {
+                "name": "hop_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10088
+            },
+            {
                 "name": "hop_seeds",
                 "icon": "hop_seeds",
                 "custom_model_data": 10089
+            },
+            {
+                "name": "grape_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10090
+            },
+            {
+                "name": "grape_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10091
+            },
+            {
+                "name": "grape_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10092
+            },
+            {
+                "name": "grape_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10093
+            },
+            {
+                "name": "grape_stage_5_item",
+                "icon": "paper",
+                "custom_model_data": 10094
+            },
+            {
+                "name": "grape_stage_6_item",
+                "icon": "paper",
+                "custom_model_data": 10095
             },
             {
                 "name": "grape_seeds",
@@ -138,9 +454,55 @@
                 "custom_model_data": 10096
             },
             {
+                "name": "apple_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10097
+            },
+            {
+                "name": "apple_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10098
+            },
+            {
+                "name": "apple_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10099
+            },
+            {
+                "name": "apple_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10100
+            },
+            {
+                "name": "apple_stage_5_item",
+                "icon": "paper",
+                "custom_model_data": 10101
+            },
+            {
+                "name": "apple_stage_6_item",
+                "icon": "paper",
+                "custom_model_data": 10102
+            },
+            {
+                "name": "water_effect",
+                "icon": "paper",
+                "custom_model_data": 10103,
+                "texture_size": 32
+            },
+            {
+                "name": "sprinkler_1",
+                "icon": "paper",
+                "custom_model_data": 10104
+            },
+            {
                 "name": "sprinkler_1_item",
                 "icon": "sprinkler_1_item",
                 "custom_model_data": 10105
+            },
+            {
+                "name": "sprinkler_2",
+                "icon": "paper",
+                "custom_model_data": 10106
             },
             {
                 "name": "sprinkler_2_item",
@@ -148,9 +510,34 @@
                 "custom_model_data": 10107
             },
             {
+                "name": "sprinkler_3",
+                "icon": "paper",
+                "custom_model_data": 10108
+            },
+            {
                 "name": "sprinkler_3_item",
                 "icon": "sprinkler_3_item",
                 "custom_model_data": 10109
+            },
+            {
+                "name": "garlic_stage_1_item",
+                "icon": "paper",
+                "custom_model_data": 10110
+            },
+            {
+                "name": "garlic_stage_2_item",
+                "icon": "paper",
+                "custom_model_data": 10111
+            },
+            {
+                "name": "garlic_stage_3_item",
+                "icon": "paper",
+                "custom_model_data": 10112
+            },
+            {
+                "name": "garlic_stage_4_item",
+                "icon": "paper",
+                "custom_model_data": 10113
             },
             {
                 "name": "garlic_seeds",

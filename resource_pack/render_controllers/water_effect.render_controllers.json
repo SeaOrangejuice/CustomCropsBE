@@ -1,0 +1,28 @@
+{
+    "format_version": "1.10",
+    "render_controllers": {
+        "controller.render.water_effect": {
+            "geometry": "geometry.default",
+            "materials": [
+                {
+                    "*": "variable.is_enchanted ? material.enchanted : material.default"
+                }
+            ],
+            "textures": [
+                "t.time = q.life_time * 2; return array.skins[t.time];",
+                "texture.enchanted"
+            ],
+            "arrays": {
+                "textures": {
+                    "Array.skins": [
+                        "Texture.t0",
+                        "Texture.t1",
+                        "Texture.t2",
+                        "Texture.t3",
+                        "Texture.t4"
+                    ]
+                }
+            }
+        }
+    }
+}
