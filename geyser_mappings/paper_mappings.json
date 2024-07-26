@@ -135,7 +135,7 @@
             },
             {
                 "name": "gigantic_pineapple_item",
-                "icon": "paper",
+                "icon": "pineapple",
                 "custom_model_data": 10033
             },
             {
@@ -240,7 +240,7 @@
             },
             {
                 "name": "gigantic_cabbage_item",
-                "icon": "paper",
+                "icon": "cabbage",
                 "custom_model_data": 10054
             },
             {
@@ -390,7 +390,7 @@
             },
             {
                 "name": "gigantic_tomato_item",
-                "icon": "paper",
+                "icon": "tomato",
                 "custom_model_data": 10084
             },
             {
